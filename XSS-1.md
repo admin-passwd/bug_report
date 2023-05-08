@@ -1,8 +1,4 @@
-# Multi Language Hotel Management Software v1.0 has stored cross-site scripting
-
 BUG_Author: getshell
-
-Website source code address: https://www.sourcecodester.com/php/15551/multi-language-hotel-management-software-free-download-source-code.html
 
 Vulnerability url: /sparkz/ajax.php
 
